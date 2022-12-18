@@ -8,3 +8,5 @@ export default {
 export function Default(){
     return <Content />
 }
+
+export const Action = () => <Content />

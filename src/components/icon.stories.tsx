@@ -1,3 +1,4 @@
+import "../";
 import { ComponentMeta } from "@storybook/react";
 import { Icon, IconProps } from "./Icon"
 
