@@ -1,3 +1,8 @@
 export function Content() {
-  // Complete aqui
+  return (
+    <div>
+      <p>Categoria Action</p>
+      
+    </div>
+  )
 }

@@ -1,3 +1,9 @@
 export function SideBar() {
-  // Complete aqui
+  return (
+    <div>Menus
+      <ul>
+        <li></li>
+      </ul>
+    </div>
+  )
 }
